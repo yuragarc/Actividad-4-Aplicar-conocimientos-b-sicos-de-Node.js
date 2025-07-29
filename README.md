@@ -10,4 +10,5 @@ No, pero al principio dudé sobre la sintaxis de los módulos.
 
 ¿Cómo lo ejecutarías en otra máquina?
 Para ejecutar el script en otra máquina, necesitas tener Node.js instalado y clonar el repositorio.
+
 Link de acceso: https://replit.com/@garcialugoyurai/V2#index.js
